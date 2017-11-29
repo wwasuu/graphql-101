@@ -1,5 +1,4 @@
 ### Luanch ::rocket::
-
 - Extend type
 - Interfaces
 - Union type
@@ -7,3 +6,6 @@
 - Fragment Query
 - Batch (Data loader)
 - Error handling
+
+### Next 
+- Stitching
