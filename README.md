@@ -1,4 +1,4 @@
-### Luanch ::rocket::
+### Luanch :rocket:
 - Extend type
 - Interfaces
 - Union type
